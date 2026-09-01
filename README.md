@@ -103,16 +103,6 @@ A full-stack investment portfolio management application with authentication, da
 
 ---
 
-### 🎯 Lead Generation Dashboard
-
-An automated dashboard designed for lead scoring and sales intelligence.
-
-**Tech:** Data Analysis · Machine Learning · Web Development
-
-🔗 [View Repository](https://github.com/aymanchamp-sudo/lead-generation-dashboard)
-
----
-
 ### ✈️ Aircraft Hydraulic Safety Optimization
 
 An AI-assisted system focused on analyzing and optimizing aircraft hydraulic safety.
