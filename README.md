@@ -1,13 +1,16 @@
 <div align="center">
 
-# Hi, I'm Ayman Shaikh 👋
+# Hey, I'm Ayman Shaikh 👋
 
-### AI/ML Enthusiast · Python Developer · Building Intelligent Systems
+### Building intelligent systems at the intersection of AI, Finance & Software Engineering
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Full-Stack+Developer;FinTech+Builder;Turning+ideas+into+shipped+products" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/aymanchamp-sudo">
-    <img src="https://komarev.com/ghpvc/?username=aymanchamp-sudo&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=aymanchamp-sudo&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile Views" />
   </a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-success?style=flat" />
 </p>
 
 </div>
@@ -17,10 +20,10 @@
 ## ⚡ Quick Navigation
 
 <p align="center">
-<a href="#-about-me">🧠 About</a> &nbsp; • &nbsp;
-<a href="#-tech-stack">🛠️ Stack</a> &nbsp; • &nbsp;
-<a href="#-featured-projects">🚀 Projects</a> &nbsp; • &nbsp;
-<a href="#-github-stats">📊 Stats</a> &nbsp; • &nbsp;
+<a href="#-about-me">🧠 About</a> &nbsp;•&nbsp;
+<a href="#️-tech-stack">🛠️ Stack</a> &nbsp;•&nbsp;
+<a href="#-featured-projects">🚀 Projects</a> &nbsp;•&nbsp;
+<a href="#-github-stats">📊 Stats</a> &nbsp;•&nbsp;
 <a href="#-connect-with-me">🤝 Connect</a>
 </p>
 
@@ -28,42 +31,41 @@
 
 ## 🧠 About Me
 
-I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, Data Science, and FinTech**.
+I'm a Computer Science & Business Systems student who likes taking projects from a blank repo to something that actually runs in production — not just a notebook that works once. My focus areas are **AI/ML, FinTech, and full-stack systems**, and I try to understand things from the fundamentals up rather than just stitching libraries together.
 
-I enjoy building projects that solve real-world problems and am currently focused on becoming a stronger programmer by genuinely understanding the fundamentals of **Python, Machine Learning, Data Structures & Algorithms, and software development**.
-
-* 🤖 Currently exploring **Machine Learning & AI**
-* 🐍 Strengthening my **Python** skills
-* 📊 Interested in **Data Science & Financial Technology**
-* 🧠 Learning to build projects from fundamentals—not just assemble tools
-* 🚀 Open to collaborating on interesting AI/ML and software projects
+- 🎓 B.Tech CSBS @ K.J. Somaiya School of Engineering, Mumbai — Batch 2024–2028
+- ⚖️ Currently building **Nyaya-Drishti**, an AI-based judicial pendency triage platform, for Smart India Hackathon 2026
+- 💰 Active member of my college's **FinTech club**
+- 🐍 Sharpening Python, DSA, and ML fundamentals daily
+- 🚀 Open to collaborating on interesting AI/ML and software projects
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Languages
+**Languages**
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,js,ts" />
 </p>
 
-### 🤖 AI / Machine Learning / Data
+**AI / Machine Learning / Data**
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-### 🌐 Development
+**Development**
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,html,css,tailwind" />
 </p>
 
-### 🗄️ Databases & Tools
+**Databases & Tools**
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,docker,git,github,postman" />
@@ -71,99 +73,86 @@ I enjoy building projects that solve real-world problems and am currently focuse
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### ⚖️ Nyaya-Drishti
-
-> **AI-Based Judicial Pendency Triage System**
-
-An intelligent system designed to help prioritize structurally stalled cases in district courts using deterministic scoring signals and machine learning.
-
+### ⚖️ Nyaya-Drishti — AI-Based Judicial Pendency Triage System
+Built for Smart India Hackathon 2026 (Ministry of Law & Justice) with **Team Diamonds**. Uses deterministic scoring signals and ML to help identify and prioritize structurally stalled cases in district courts.
 **Tech:** Python · Machine Learning · FastAPI · React · PostgreSQL
 
 ---
 
-### 📊 Telecom Churn Prediction
-
-Machine learning project focused on predicting customer churn and identifying patterns that can help businesses retain customers.
-
-**Tech:** Python · Scikit-learn · Pandas · Machine Learning
-
-🔗 [View Repository](https://github.com/aymanchamp-sudo/telecom-churn-prediction)
-
----
-
-### 💼 Portfolio Manager
-
-A full-stack investment portfolio management application with authentication, database integration, and portfolio tracking.
-
-**Tech:** PostgreSQL · Docker · Full-Stack Development
-
+### 💼 PortfolioX — Full-Stack Investment Portfolio Manager
+A Java 21 full-stack app with a REST API spanning 16 endpoints, a fully wired light-themed frontend, CSV import for Indian stocks, and a complete Requirements Traceability Matrix.
+**Tech:** Java 21 · PostgreSQL · Docker · Full-Stack Development
 🔗 [View Repository](https://github.com/aymanchamp-sudo/portfolio-manager)
 
 ---
 
+### 💸 PayRozgar — Payroll PWA for Small Businesses
+A vanilla JS Progressive Web App built for small shop owners, audited with Playwright-based browser testing to catch real-world bugs (onboarding flow, mobile layout, SRS compliance).
+
+---
+
+### 🏦 Payroll Management System
+A full-stack payroll platform built for a FinTech club project — FastAPI backend, PostgreSQL, JWT auth, and a vanilla JS frontend, deployed on Render and GitHub Pages.
+
+---
+
+### 📊 Telecom Churn Prediction
+ML pipeline for predicting customer churn and surfacing the patterns behind it.
+**Tech:** Python · Scikit-learn · Pandas · Machine Learning
+🔗 [View Repository](https://github.com/aymanchamp-sudo/telecom-churn-prediction)
+
+---
+
 ### ✈️ Aircraft Hydraulic Safety Optimization
-
-An AI-assisted system focused on analyzing and optimizing aircraft hydraulic safety.
-
+AI-assisted system for analyzing and optimizing aircraft hydraulic safety, deployed end-to-end with Streamlit.
 🔗 [View Repository](https://github.com/aymanchamp-sudo/aircraft-hydraulic-safety)
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=aymanchamp-sudo&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymanchamp-sudo&theme=tokyonight&hide_border=true" height="170"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanchamp-sudo&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
 </p>
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 ```text
 🐍 Advanced Python
 📊 Data Structures & Algorithms
-🤖 Machine Learning
+🤖 Machine Learning & AI Systems
 📈 Data Analytics
-🧠 AI Systems
 💰 Financial Technology
 ```
 
 ---
 
-# 🎯 My Goal
+## 🎯 My Goal
 
-> To become a strong engineer who understands how things work—not just someone who can put together existing code.
+> To become an engineer who understands how things actually work — not just someone who assembles existing tools.
 
-I'm currently focused on improving my programming fundamentals, building meaningful projects, and developing deeper expertise in **Python, Machine Learning, and intelligent systems**.
+I'm focused on strengthening my fundamentals, shipping meaningful projects end-to-end, and going deeper into ML and intelligent systems.
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p>
-
 <a href="https://github.com/aymanchamp-sudo">
 <img src="https://img.shields.io/badge/GitHub-Ayman%20Shaikh-181717?style=for-the-badge&logo=github" />
 </a>
-
-<!-- Add your LinkedIn profile here -->
-
 <a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
-
 </p>
 
 ---
