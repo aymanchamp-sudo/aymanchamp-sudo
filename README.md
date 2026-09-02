@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2F81F7&height=220&section=header&text=Ayman%20Shaikh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%C2%B7%20FinTech%20%C2%B7%20Full-Stack%20Systems&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2F81F7&height=220&section=header&text=Ayman%20Shaikh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%C2%B7%20FinTech%20%C2%B7%20Software%20Engineering&descAlignY=55&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+K.J.+Somaiya;AI+%26+ML+Enthusiast;Building+FinTech+%2B+Intelligent+Systems;Shipping%2C+not+just+prototyping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+K.J.+Somaiya;AI+%26+ML+Enthusiast;Building+FinTech+%2B+Intelligent+Systems;Learning+fundamentals.+Building+real+systems." alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=aymanchamp-sudo&label=Profile%20Views&color=2F81F7&style=flat-square" alt="Profile Views" />
@@ -25,8 +25,7 @@ class AymanShaikh {
   degree: string      = "B.Tech, Computer Science & Business Systems";
   institute: string   = "K.J. Somaiya School of Engineering";
   batch: string        = "2024 – 2028";
-  focus: string[]     = ["AI/ML", "FinTech", "Full-Stack Systems"];
-  currentBuild: string = "Nyaya-Drishti — AI judicial pendency triage (SIH 2026)";
+  focus: string[]     = ["AI/ML", "FinTech", "Software Engineering"];
 
   philosophy(): string {
     return "Understand it from the fundamentals up — don't just assemble tools.";
@@ -34,10 +33,20 @@ class AymanShaikh {
 }
 ```
 
-- ⚖️ Currently building **Nyaya-Drishti**, an AI-based judicial pendency triage platform, for Smart India Hackathon 2026 (Team Diamonds)
+- ⚖️ Built **Nyaya-Drishti**, an AI-based judicial pendency triage platform for Smart India Hackathon 2026 (Team Diamonds)
 - 💰 Active member of my college's **FinTech club**
-- 🐍 Sharpening Python, DSA, and ML fundamentals daily
+- 🐍 Currently strengthening Python, DSA, and ML fundamentals
 - 🚀 Open to collaborating on interesting AI/ML and software projects
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2F81F7,100:0F2027&height=3&section=header" width="100%" />
+
+## 📚 Currently Learning
+
+- Python — writing cleaner, more maintainable code
+- Data Structures & Algorithms
+- Machine Learning fundamentals
+- SQL & database design
+- Git & software engineering practices
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2F81F7,100:0F2027&height=3&section=header" width="100%" />
 
@@ -67,10 +76,9 @@ class AymanShaikh {
 
 | Project | What it does | Stack |
 |---|---|---|
-| ⚖️ **[Nyaya-Drishti](#)** | AI-based judicial pendency triage system for district courts — built for SIH 2026 (Ministry of Law & Justice) | Python · ML · FastAPI · React · PostgreSQL |
+| ⚖️ **Nyaya-Drishti** | AI-based judicial pendency triage system for district courts — built for Smart India Hackathon 2026 (Ministry of Law & Justice) | Python · ML · FastAPI · React · PostgreSQL |
 | 💼 **[PortfolioX](https://github.com/aymanchamp-sudo/portfolio-manager)** | Full-stack investment portfolio manager — 16-endpoint REST API, CSV import for Indian stocks, full RTM doc | Java 21 · PostgreSQL · Docker |
-| 💸 **PayRozgar** | Payroll PWA for small shop owners, audited end-to-end with Playwright | Vanilla JS · PWA |
-| 🏦 **Payroll Management System** | Full-stack payroll platform with JWT auth, deployed on Render + GitHub Pages | FastAPI · PostgreSQL · JWT |
+| 💸 **PayRozgar** | Payroll PWA for small shop owners — built as a 3-person team and audited end-to-end with Playwright | Vanilla JS · PWA |
 | 📊 **[Telecom Churn Prediction](https://github.com/aymanchamp-sudo/telecom-churn-prediction)** | ML pipeline predicting customer churn and surfacing the drivers behind it | Python · Scikit-learn · Pandas |
 | ✈️ **[Aircraft Hydraulic Safety Optimization](https://github.com/aymanchamp-sudo/aircraft-hydraulic-safety)** | AI-assisted safety analysis system, deployed end-to-end | Python · Streamlit |
 
@@ -95,8 +103,6 @@ class AymanShaikh {
 <img src="https://raw.githubusercontent.com/aymanchamp-sudo/aymanchamp-sudo/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
-> Set up via the [`Platane/snk`](https://github.com/Platane/snk) GitHub Action — see setup notes below.
-
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2F81F7,100:0F2027&height=3&section=header" width="100%" />
 
 ## 🎯 Goal
@@ -109,7 +115,6 @@ class AymanShaikh {
 
 <p align="center">
 <a href="https://github.com/aymanchamp-sudo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Interested in AI/ML, FinTech, or high-impact systems? Open to internships and collaborations.</i></p>
