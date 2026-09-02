@@ -1,164 +1,117 @@
 <div align="center">
 
-# Hey, I'm Ayman Shaikh 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2F81F7&height=220&section=header&text=Ayman%20Shaikh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%C2%B7%20FinTech%20%C2%B7%20Full-Stack%20Systems&descAlignY=55&descSize=18" width="100%" />
 
-### Building intelligent systems at the intersection of AI, Finance & Software Engineering
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Full-Stack+Developer;FinTech+Builder;Turning+ideas+into+shipped+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+K.J.+Somaiya;AI+%26+ML+Enthusiast;Building+FinTech+%2B+Intelligent+Systems;Shipping%2C+not+just+prototyping" alt="Typing SVG" />
 
 <p>
-  <a href="https://github.com/aymanchamp-sudo">
-    <img src="https://komarev.com/ghpvc/?username=aymanchamp-sudo&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile Views" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-success?style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=aymanchamp-sudo&label=Profile%20Views&color=2F81F7&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-2F81F7?style=flat-square" />
 </p>
+
+`🧠 About` · `🛠️ Stack` · `🚀 Projects` · `📊 Stats` · `🐍 Snake` · `🤝 Connect`
 
 </div>
 
----
+<br/>
 
-## ⚡ Quick Navigation
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2F81F7,100:0F2027&height=3&section=header" width="100%" />
 
-<p align="center">
-<a href="#-about-me">🧠 About</a> &nbsp;•&nbsp;
-<a href="#️-tech-stack">🛠️ Stack</a> &nbsp;•&nbsp;
-<a href="#-featured-projects">🚀 Projects</a> &nbsp;•&nbsp;
-<a href="#-github-stats">📊 Stats</a> &nbsp;•&nbsp;
-<a href="#-connect-with-me">🤝 Connect</a>
-</p>
+## 🧠 About
 
----
+```ts
+class AymanShaikh {
+  location: string   = "Mumbai, India";
+  degree: string      = "B.Tech, Computer Science & Business Systems";
+  institute: string   = "K.J. Somaiya School of Engineering";
+  batch: string        = "2024 – 2028";
+  focus: string[]     = ["AI/ML", "FinTech", "Full-Stack Systems"];
+  currentBuild: string = "Nyaya-Drishti — AI judicial pendency triage (SIH 2026)";
 
-## 🧠 About Me
+  philosophy(): string {
+    return "Understand it from the fundamentals up — don't just assemble tools.";
+  }
+}
+```
 
-I'm a Computer Science & Business Systems student who likes taking projects from a blank repo to something that actually runs in production — not just a notebook that works once. My focus areas are **AI/ML, FinTech, and full-stack systems**, and I try to understand things from the fundamentals up rather than just stitching libraries together.
-
-- 🎓 B.Tech CSBS @ K.J. Somaiya School of Engineering, Mumbai — Batch 2024–2028
-- ⚖️ Currently building **Nyaya-Drishti**, an AI-based judicial pendency triage platform, for Smart India Hackathon 2026
+- ⚖️ Currently building **Nyaya-Drishti**, an AI-based judicial pendency triage platform, for Smart India Hackathon 2026 (Team Diamonds)
 - 💰 Active member of my college's **FinTech club**
 - 🐍 Sharpening Python, DSA, and ML fundamentals daily
 - 🚀 Open to collaborating on interesting AI/ML and software projects
 
----
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2F81F7,100:0F2027&height=3&section=header" width="100%" />
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
 **Languages**
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,java,c,js,ts&theme=dark" /></p>
 
 **AI / Machine Learning / Data**
-
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-**Development**
+**Frontend & Frameworks**
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,html,css,tailwind&theme=dark" /></p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,html,css,tailwind" />
-</p>
+**Databases, Cloud & Tools**
+<p><img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,docker,git,github,postman&theme=dark" /></p>
 
-**Databases & Tools**
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2F81F7,100:0F2027&height=3&section=header" width="100%" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,docker,git,github,postman" />
-</p>
+## 🚀 Projects
 
----
+| Project | What it does | Stack |
+|---|---|---|
+| ⚖️ **[Nyaya-Drishti](#)** | AI-based judicial pendency triage system for district courts — built for SIH 2026 (Ministry of Law & Justice) | Python · ML · FastAPI · React · PostgreSQL |
+| 💼 **[PortfolioX](https://github.com/aymanchamp-sudo/portfolio-manager)** | Full-stack investment portfolio manager — 16-endpoint REST API, CSV import for Indian stocks, full RTM doc | Java 21 · PostgreSQL · Docker |
+| 💸 **PayRozgar** | Payroll PWA for small shop owners, audited end-to-end with Playwright | Vanilla JS · PWA |
+| 🏦 **Payroll Management System** | Full-stack payroll platform with JWT auth, deployed on Render + GitHub Pages | FastAPI · PostgreSQL · JWT |
+| 📊 **[Telecom Churn Prediction](https://github.com/aymanchamp-sudo/telecom-churn-prediction)** | ML pipeline predicting customer churn and surfacing the drivers behind it | Python · Scikit-learn · Pandas |
+| ✈️ **[Aircraft Hydraulic Safety Optimization](https://github.com/aymanchamp-sudo/aircraft-hydraulic-safety)** | AI-assisted safety analysis system, deployed end-to-end | Python · Streamlit |
 
-## 🚀 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2F81F7,100:0F2027&height=3&section=header" width="100%" />
 
-### ⚖️ Nyaya-Drishti — AI-Based Judicial Pendency Triage System
-Built for Smart India Hackathon 2026 (Ministry of Law & Justice) with **Team Diamonds**. Uses deterministic scoring signals and ML to help identify and prioritize structurally stalled cases in district courts.
-**Tech:** Python · Machine Learning · FastAPI · React · PostgreSQL
-
----
-
-### 💼 PortfolioX — Full-Stack Investment Portfolio Manager
-A Java 21 full-stack app with a REST API spanning 16 endpoints, a fully wired light-themed frontend, CSV import for Indian stocks, and a complete Requirements Traceability Matrix.
-**Tech:** Java 21 · PostgreSQL · Docker · Full-Stack Development
-🔗 [View Repository](https://github.com/aymanchamp-sudo/portfolio-manager)
-
----
-
-### 💸 PayRozgar — Payroll PWA for Small Businesses
-A vanilla JS Progressive Web App built for small shop owners, audited with Playwright-based browser testing to catch real-world bugs (onboarding flow, mobile layout, SRS compliance).
-
----
-
-### 🏦 Payroll Management System
-A full-stack payroll platform built for a FinTech club project — FastAPI backend, PostgreSQL, JWT auth, and a vanilla JS frontend, deployed on Render and GitHub Pages.
-
----
-
-### 📊 Telecom Churn Prediction
-ML pipeline for predicting customer churn and surfacing the patterns behind it.
-**Tech:** Python · Scikit-learn · Pandas · Machine Learning
-🔗 [View Repository](https://github.com/aymanchamp-sudo/telecom-churn-prediction)
-
----
-
-### ✈️ Aircraft Hydraulic Safety Optimization
-AI-assisted system for analyzing and optimizing aircraft hydraulic safety, deployed end-to-end with Streamlit.
-🔗 [View Repository](https://github.com/aymanchamp-sudo/aircraft-hydraulic-safety)
-
----
-
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aymanchamp-sudo&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aymanchamp-sudo&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aymanchamp-sudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aymanchamp-sudo&theme=tokyonight&hide_border=true&background=0F2027" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanchamp-sudo&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanchamp-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027" height="170"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2F81F7,100:0F2027&height=3&section=header" width="100%" />
 
-## 🌱 Currently Learning
+## 🐍 Contribution Snake
 
-```text
-🐍 Advanced Python
-📊 Data Structures & Algorithms
-🤖 Machine Learning & AI Systems
-📈 Data Analytics
-💰 Financial Technology
-```
+<p align="center">
+<img src="https://raw.githubusercontent.com/aymanchamp-sudo/aymanchamp-sudo/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
 
----
+> Set up via the [`Platane/snk`](https://github.com/Platane/snk) GitHub Action — see setup notes below.
 
-## 🎯 My Goal
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2F81F7,100:0F2027&height=3&section=header" width="100%" />
+
+## 🎯 Goal
 
 > To become an engineer who understands how things actually work — not just someone who assembles existing tools.
 
-I'm focused on strengthening my fundamentals, shipping meaningful projects end-to-end, and going deeper into ML and intelligent systems.
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2F81F7,100:0F2027&height=3&section=header" width="100%" />
 
----
+## 🤝 Connect
 
-## 🤝 Connect With Me
-
-<p>
-<a href="https://github.com/aymanchamp-sudo">
-<img src="https://img.shields.io/badge/GitHub-Ayman%20Shaikh-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-0077B5?style=for-the-badge&logo=linkedin" />
-</a>
+<p align="center">
+<a href="https://github.com/aymanchamp-sudo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
+<p align="center"><i>Interested in AI/ML, FinTech, or high-impact systems? Open to internships and collaborations.</i></p>
 
-<div align="center">
-
-### ⭐ Building. Learning. Improving. Repeating.
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2F81F7&height=120&section=footer" width="100%" />
